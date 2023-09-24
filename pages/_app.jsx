@@ -3,6 +3,7 @@ import "../styles/tailwind.config.css";
 import "../styles/globals.css";
 import Head from "next/head";
 import Layout from "../layouts/main.layout";
+import('preline')
 
 function MyApp({ Component, pageProps }) {
   return (

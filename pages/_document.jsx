@@ -23,10 +23,6 @@ class MyDocument extends Document {
             property="og:description"
             content="A social media app built with the MERN stack and TailwindCSS"
           />
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1.0"
-          />
         </Head>
         <body>
           <Main />
