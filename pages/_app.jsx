@@ -1,6 +1,6 @@
 // pages/_app.js
-import "../src/assets/css/tailwind.config.css";
-import "../src/assets/css/globals.css";
+import "../styles/tailwind.config.css";
+import "../styles/globals.css";
 import Head from "next/head";
 import Layout from "../layouts/main.layout";
 
