@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Wholesale</title>
+        <title>MERN Social Media APP</title>
       </Head>
       <Layout>
         <Component {...pageProps} />

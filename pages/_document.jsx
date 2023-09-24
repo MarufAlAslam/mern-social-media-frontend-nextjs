@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3773/3773205.png" />
+          <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/4336/4336400.png" />
         </Head>
         <body>
           <Main />
